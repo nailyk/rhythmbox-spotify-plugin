@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=spotify
+IAge=2
+Name=Spotify
+Description=Browse and play sounds from Spotify®
+Authors=Kylian Deau
+Copyright=Copyright © 2015 Kylian Deau
+Website=http://www.rhythmbox.org/
+Depends=rb
